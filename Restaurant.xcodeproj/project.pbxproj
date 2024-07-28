@@ -14,6 +14,7 @@
 		5DF492AD2C56452100BD6273 /* RestaurantTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF492AC2C56452100BD6273 /* RestaurantTests.swift */; };
 		5DF492B72C56452100BD6273 /* RestaurantUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF492B62C56452100BD6273 /* RestaurantUITests.swift */; };
 		5DF492B92C56452100BD6273 /* RestaurantUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF492B82C56452100BD6273 /* RestaurantUITestsLaunchTests.swift */; };
+		5DF492FC2C56561F00BD6273 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF492FB2C56561F00BD6273 /* HomeScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5DF492B22C56452100BD6273 /* RestaurantUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RestaurantUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DF492B62C56452100BD6273 /* RestaurantUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantUITests.swift; sourceTree = "<group>"; };
 		5DF492B82C56452100BD6273 /* RestaurantUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5DF492FB2C56561F00BD6273 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		5DF4929A2C56451E00BD6273 /* Restaurant */ = {
 			isa = PBXGroup;
 			children = (
+				5DF492FB2C56561F00BD6273 /* HomeScreen.swift */,
 				5DF4929B2C56451E00BD6273 /* RestaurantApp.swift */,
 				5DF4929D2C56451E00BD6273 /* ContentView.swift */,
 				5DF4929F2C56452100BD6273 /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				5DF4929E2C56451E00BD6273 /* ContentView.swift in Sources */,
 				5DF4929C2C56451E00BD6273 /* RestaurantApp.swift in Sources */,
+				5DF492FC2C56561F00BD6273 /* HomeScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
